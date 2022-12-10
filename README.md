@@ -1,6 +1,4 @@
-Tarefa 2 - Visualização de Dados
-
-Esta atividade consta de 3 experimentos de visualização de dados obtidos de datasets públicos, como descrito abaixo:
+Tarefa 2 - Visualização de Dados. Esta atividade consta de 3 experimentos de visualização de dados obtidos de datasets públicos, como descrito abaixo:
 
 Dispersão
 Este conjunto é originário do Instituto Nacional de Diabetes e Doenças Digestivas e Renais da Índia. O objetivo do conjunto de dados é prever
