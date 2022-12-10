@@ -21,7 +21,7 @@ Obtido em https://www.kaggle.com/datasets/whenamancodes/predict-diabities
 Histograma
 Este conjunto de dados tem informações coletadas diariamente referente à vacinação contra covid-19 em nível de país, coletadas
 e reunidos numa única base de dados. Obtido em "https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress"
-Para esta atividade foram selecionados registros com a coluna "country" com # paises do Mercosul
+Para esta atividade foram selecionados registros com a coluna "country" com paises do Mercosul
 
 Pizza
 Este conjunto contém dados sobre o número de casos de DST nos EUA. Os dados incluem a doença, o código da doença, o estado onde a DST foi
