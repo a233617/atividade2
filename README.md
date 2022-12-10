@@ -3,7 +3,7 @@ Tarefa 2 - Visualização de Dados
 Esta atividade consta de 3 experimentos de visualização de dados obtidos de datasets públicos, como descrito abaixo:
 
 Dispersão
-Este conjunto é originalmente do Instituto Nacional de Diabetes e Doenças # Digestivas e Renais da Índia. O objetivo do conjunto de dados é prever
+Este conjunto é originário do Instituto Nacional de Diabetes e Doenças # Digestivas e Renais da Índia. O objetivo do conjunto de dados é prever
 diagnosticamente se um paciente tem diabetes, com base em determinadas # medidas diagnósticas incluídas no conjunto de dados. Várias restrições foram
 colocadas na seleção dessas instâncias a partir de um banco de dados maior. Todos os pacientes são mulheres com pelo menos 21 anos de idade.
 Descrição do dataset
